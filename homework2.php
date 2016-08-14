@@ -6,6 +6,7 @@ function f1($str=array(caffe,tea,juce))
     echo "$value</p>";
 }
 f1();
+
 /**
  * Created by PhpStorm.
  * User: Анна
