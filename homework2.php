@@ -56,7 +56,7 @@ function f2($array,$symbol)
 
                     }
                     break;
-                        
+
                     }
             }
         }
